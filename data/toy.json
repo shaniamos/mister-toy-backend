@@ -1,0 +1,71 @@
+[
+  {
+    "_id": "t101",
+    "name": "Talking Doll",
+    "price": 123,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "_id": "t102",
+    "name": "Music maker",
+    "price": 123,
+    "labels": [
+      "Art",
+      "Puzzle",
+      "Baby"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": false
+  },
+  {
+    "_id": "t103",
+    "name": "LEGO",
+    "price": 123,
+    "labels": [
+      "Outdoor",
+      "On wheels",
+      "Doll"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "_id": "t105",
+    "name": "Farm Toys",
+    "price": 123,
+    "labels": [
+      "Doll",
+      "Art",
+      "Baby"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "name": "Football Game",
+    "price": 30,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1662498161545,
+    "inStock": true,
+    "_id": "g9uKr"
+  },
+  {
+    "name": "CHECK",
+    "price": 99,
+    "labels": [],
+    "inStock": true,
+    "label": "Onwheels",
+    "_id": "Z9mlM",
+    "createdAt": 1662498494033
+  }
+]
